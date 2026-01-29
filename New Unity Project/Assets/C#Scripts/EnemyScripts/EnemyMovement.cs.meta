@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3aefea71a076a4949a4449d597d9babf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agent: {instanceID: 0}
+  - boxCollider: {instanceID: 0}
+  - spot: {instanceID: 0}
+  - attackSound: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - freezeEffect: {fileID: 4862707100831228446, guid: f94ee87ba4072044883b339427faad1c, type: 3}
+  - breakIce: {fileID: 8300000, guid: 74e24e5be7710944cb1d8d1c1d1d1071, type: 3}
+  - brokenIcePieces: {fileID: 303166251625297955, guid: a61ea616c8217be4ebf460de09284b13, type: 3}
+  - shockParticles: {fileID: 6117807472193970796, guid: 12d080a59ba068b4da811ed12d0cfa04, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

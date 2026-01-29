@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Claw1.002
+    m_Weight: 1
+  - m_Path: FootClaw2
+    m_Weight: 1
+  - m_Path: LowerEyeLid
+    m_Weight: 1
+  - m_Path: LowerTeethOne
+    m_Weight: 1
+  - m_Path: RexAmature
+    m_Weight: 1
+  - m_Path: RexAmature/Body
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/EndFinger1_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/EndFinger1_L/EndFinger2_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/EndFinger1_L/EndFinger2_L/EndFinger3_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_L/Arm_L/ForeArm_L/Hand_L/Thumb1_L/Thumb2_L/Thumb3_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/EndFinger1_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/EndFinger1_R/EndFinger2_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/EndFinger1_R/EndFinger2_R/EndFinger3_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Shoulder_R/Arm_R/ForeArm_R/Hand_R/Thumb1_R/Thumb2_R/Thumb3_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/LowerJaw
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/LowerJaw/Tongue1
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/LowerJaw/Tongue1/Tongue2
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/LowerJaw/Tongue1/Tongue2/Tongue3
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/Upperjaw
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/Upperjaw/LowerEyeLid_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/Upperjaw/LowerEyeLid_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/Upperjaw/UpperEyeLid_L
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Spine/Chest/Throat/Neck/Head/Upperjaw/UpperEyeLid_R
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3/Tail4
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3/Tail4/Tail5
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+    m_Weight: 1
+  - m_Path: RexAmature/Body/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeLeft_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeLeft_L/ToeLeftEnd_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeMiddle_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeMiddle_L/ToeMiddleEnd_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeRight_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Foot_L/ToeRight_R/ToeRightEnd_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_L/Calf_L/Heel_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeLeft_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeLeft_R/ToeLeftEnd_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeMiddle_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeMiddle_R/ToeMiddleEnd_R
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeRight_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Foot_R/ToeRight_L/ToeRightEnd_L
+    m_Weight: 1
+  - m_Path: RexAmature/Thigh_R/Calf_R/Heel_R
+    m_Weight: 1
+  - m_Path: RexEyeL
+    m_Weight: 1
+  - m_Path: RexEyeR
+    m_Weight: 1
+  - m_Path: RexLOWPOLY
+    m_Weight: 1
+  - m_Path: TongueLowpoly
+    m_Weight: 1
+  - m_Path: UpperEyeLid
+    m_Weight: 1
+  - m_Path: UpperTeeth
+    m_Weight: 1

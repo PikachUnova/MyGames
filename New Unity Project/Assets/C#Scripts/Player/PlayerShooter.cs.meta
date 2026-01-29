@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d41571a83ab63dd4d96e4f2ae5e5844e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fire: {fileID: 6202953076169354817, guid: c149c34b4c86ca0408167e52c6d79584, type: 3}
+  - fireHome: {fileID: 7344740962954523550, guid: 140d603d211442b439fd633880bb9eda, type: 3}
+  - fireRebound: {fileID: 7344740962954523550, guid: 42bad36eb7a706d4386b293cc0ab2bfe, type: 3}
+  - fireExplode: {fileID: 7344740962954523550, guid: 33a5158c6dad5844bab2199f4b656184, type: 3}
+  - ice: {fileID: 1177632346820818954, guid: 3e0cac7d8befd7d4cab549992e308521, type: 3}
+  - electroBall: {fileID: 1876974886448445, guid: e5a182827507f7a4ca45d16193213a94, type: 3}
+  - poisonBall: {fileID: 7668461835128869426, guid: b104d6136c2e83447a229b79773f8f50, type: 3}
+  - fireBreath: {fileID: 2029011408309446222, guid: 8ed0c91ff5a82314188e9fa739ebd9b8, type: 3}
+  - RainOfFireballs: {fileID: 2970999620811012956, guid: 02c85985eda8292498a4016d1cd2fca1, type: 3}
+  - fireMuzzle: {fileID: 346502405348655454, guid: ff366de5005d26246abee23dda0c2902, type: 3}
+  - fireMuzzleHome: {fileID: 4038177487229087380, guid: 7e0a2a4d27f7cc443a379a77346ac9c2, type: 3}
+  - fireMuzzleRebound: {fileID: 4038177487229087380, guid: dffcc932cab973545bda9a7833e0dcf9, type: 3}
+  - iceMuzzle: {fileID: 4020596247635252002, guid: 62ff2c23691abe54c89687820a73f655, type: 3}
+  - electricMuzzle: {fileID: 5576713339743835478, guid: f371412cebbca174fb31c6bc33d29e09, type: 3}
+  - fireSound: {fileID: 8300000, guid: 2c3b67e009c8c8e4291f99ff9be04a26, type: 3}
+  - iceSound: {fileID: 8300000, guid: 1f5a3d5da3d3fe44b852706e871d453e, type: 3}
+  - electroSound: {fileID: 8300000, guid: 9f44ae085bff7c34ab7fac4d00b5008d, type: 3}
+  - playermodelAnimation: {instanceID: 0}
+  - check: {instanceID: 0}
+  - playermovement: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0730146f6970f63498c1d4e157573d24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hurt: {fileID: 8300000, guid: f11fc8d3ca67edc48a595ddf37429b7c, type: 3}
+  - death: {fileID: 8300000, guid: f11fc8d3ca67edc48a595ddf37429b7c, type: 3}
+  - playermodelAnimation: {fileID: 7783205008455462645, guid: 3f6f617994295a84ba4e055172dd225e, type: 3}
+  - eyesClosed: {instanceID: 0}
+  - burnEffect: {fileID: 1140334043699385072, guid: e85f92619adfb83489625b46f9f59293, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

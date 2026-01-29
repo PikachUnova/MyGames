@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 8afba4c6ee5b66f498870ab4ea44887d
+  - enabled: 1
+    path: Assets/Scenes/Rex'sNeighborhood.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TheLowLands.unity
+    guid: b6d1e5de069aa3c48b74f68ecca328ce
+  - enabled: 1
+    path: Assets/Scenes/World Cave Dungeon.unity
+    guid: 58b429f3df4d8d64c9513f00e6440703
+  - enabled: 1
+    path: Assets/Scenes/World Wetlands Beach.unity
+    guid: 300e5f192e8bf954ca95c07f2ad2b526
+  - enabled: 1
+    path: Assets/Scenes/World Snow.unity
+    guid: 6ff8ca86dc64d4745a8b65d3fbd153e5
+  - enabled: 1
+    path: Assets/Scenes/WorldDark.unity
+    guid: 2031aebb5cfe44c4abc1fcbc25b6d5a5
+  - enabled: 1
+    path: Assets/Scenes/World Dark.unity
+    guid: a4da5a37cd31f3e4482e9cd19d4ee2a6
+  - enabled: 1
+    path: Assets/Scenes/Final Battle.unity
+    guid: ca899c50ec9a9bd46a8fb4fbf9df7a07
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 24567b9db06fcd247b977aaaf83dbbdd
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

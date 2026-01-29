@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 820ef849b6aa27e498d5109d98720477
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - deathParticle: {fileID: 6126345418403195528, guid: 520549eb19c0a354b9661f7ab8a3fbb5, type: 3}
+  - death: {fileID: 8300000, guid: e97d037e179b521448f2c16e11201d76, type: 3}
+  - burnEffect: {fileID: 1140334043699385072, guid: e85f92619adfb83489625b46f9f59293, type: 3}
+  - poisonEffect: {fileID: 382440556824315526, guid: 24312a866ae781e43898da272bbc4f69, type: 3}
+  - itemLoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

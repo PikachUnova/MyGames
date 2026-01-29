@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5744f1066292aaa499624072c31b6b0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - electricImpact: {instanceID: 0}
+  - hitObstacle: {fileID: 8300000, guid: 7f841a9126b86904aa46da851134673b, type: 3}
+  - hitEnemy: {fileID: 8300000, guid: 6dc3983e88c0b8947a727fa10a4b159d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
